@@ -13,6 +13,7 @@
 		A9191D721527C5A700A91938 /* itWebVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A9191D711527C5A700A91938 /* itWebVC.m */; };
 		A92C02B91528C2FD003809DF /* itHintsVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A92C02B81528C2FD003809DF /* itHintsVC.m */; };
 		A92F5F881564AADD00AD8BBD /* itImgVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A92F5F871564AADD00AD8BBD /* itImgVC.m */; };
+		A934712315E9943800390889 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A934712215E9943800390889 /* README.md */; };
 		A9633F2B1571C3E10032C102 /* CrosshairSelector.png in Resources */ = {isa = PBXBuildFile; fileRef = A9633F261571C3E10032C102 /* CrosshairSelector.png */; };
 		A9633F2C1571C3E10032C102 /* CrosshairSelector@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A9633F271571C3E10032C102 /* CrosshairSelector@2x.png */; };
 		A9633F2D1571C3E10032C102 /* HorizontalSelector.png in Resources */ = {isa = PBXBuildFile; fileRef = A9633F281571C3E10032C102 /* HorizontalSelector.png */; };
@@ -62,6 +63,7 @@
 		A92C02B81528C2FD003809DF /* itHintsVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = itHintsVC.m; sourceTree = "<group>"; };
 		A92F5F861564AADD00AD8BBD /* itImgVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = itImgVC.h; sourceTree = "<group>"; };
 		A92F5F871564AADD00AD8BBD /* itImgVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = itImgVC.m; sourceTree = "<group>"; };
+		A934712215E9943800390889 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 		A94563451567F8F7004E7D2B /* dev.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = dev.txt; sourceTree = "<group>"; };
 		A9633F261571C3E10032C102 /* CrosshairSelector.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CrosshairSelector.png; path = Resources/ColorPicker/CrosshairSelector.png; sourceTree = "<group>"; };
 		A9633F271571C3E10032C102 /* CrosshairSelector@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "CrosshairSelector@2x.png"; path = "Resources/ColorPicker/CrosshairSelector@2x.png"; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				A963920A1523F1FC0088C2EE /* iterate */,
+				A934712215E9943800390889 /* README.md */,
 				A963922B1523F1FC0088C2EE /* iterateTests */,
 				A96392031523F1FC0088C2EE /* Frameworks */,
 				A96392011523F1FC0088C2EE /* Products */,
@@ -337,6 +340,7 @@
 				A90345A9158564CA0020E0C3 /* hints.html in Resources */,
 				A90345AC15856E6E0020E0C3 /* ipad.css in Resources */,
 				A90345AE15856F610020E0C3 /* iphone.css in Resources */,
+				A934712315E9943800390889 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
