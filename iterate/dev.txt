@@ -1,0 +1,73 @@
+
+// Portrait
+// status bar off
+49:50.390          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+49:50.390          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+49:50.390          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+// status bar on
+48:48.357          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+48:48.358          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 0.000000, y: 20.000000, w: 320.000000, h: 460.000000
+48:48.358          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 0.000000, w: 320.000000, h: 460.000000
+// status on, nav on
+53:32.588          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+53:32.588          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 0.000000, y: 20.000000, w: 320.000000, h: 460.000000
+53:32.589          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 44.000000, w: 320.000000, h: 416.000000
+
+// status on, nav on, tab on
+55:04.164          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+55:04.164          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 0.000000, y: 20.000000, w: 320.000000, h: 460.000000
+55:04.164          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 44.000000, w: 320.000000, h: 367.000000
+
+// nav on, tab on
+56:07.896          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+56:07.896          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+56:07.896          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 44.000000, w: 320.000000, h: 387.000000
+
+// tab on
+57:17.410          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+57:17.410          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+57:17.410          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 0.000000, w: 320.000000, h: 431.000000
+
+
+// Landscape
+//status off
+01:11.500          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+01:11.500          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+01:11.500          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 0.000000, w: 500.000000, h: 300.000000
+// status on
+00:47.717          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+00:47.717          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 20.000000, y: 0.000000, w: 300.000000, h: 480.000000
+00:47.718          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 0.000000, w: 500.000000, h: 280.000000
+// status on, nav on
+00:22.528          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+00:22.528          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 20.000000, y: 0.000000, w: 300.000000, h: 480.000000
+00:22.529          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 44.000000, w: 500.000000, h: 236.000000
+// status on, nav on, tab on
+59:55.866          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+59:55.866          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 20.000000, y: 0.000000, w: 300.000000, h: 480.000000
+59:55.866          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 44.000000, w: 500.000000, h: 187.000000
+// nav on, tab on
+59:24.310          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+59:24.310          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+59:24.310          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 44.000000, w: 500.000000, h: 207.000000
+// tab on
+58:42.471          itImgVC.m:  79  viewWillAppear:       screen bounds, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+58:42.471          itImgVC.m:  81  viewWillAppear:       screen  frame, x: 0.000000, y: 0.000000, w: 320.000000, h: 480.000000
+58:42.471          itImgVC.m:  83  viewWillAppear:       imgView frame, x: 0.000000, y: 0.000000, w: 500.000000, h: 251.000000
+
+
+//	AV resources
+
+
+
+http://stackoverflow.com/questions/4362734/ios-sdk-programmatically-generate-a-pdf-file
+
+http://stackoverflow.com/questions/3889634/fast-and-lean-pdf-viewer-for-iphone-ipad-ios-tips-and-hints
+
+http://www.ioslearner.com/generate-pdf-programmatically-iphoneipad/
+
+http://www.iphonedevsdk.com/forum/iphone-sdk-tutorials/10989-pdf-creation-tutorial.html
+
+http://developer.apple.com/library/ios/#documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/04_MediaCapture.html
+
+http://www.sunsetlakesoftware.com/2012/02/12/introducing-gpuimage-framework

@@ -1,0 +1,11 @@
+// 
+//  Localizable.strings
+//	iterate
+//
+//	Created by Bill Snook on 5/26/12.
+//	Copyright (c) 2012 SnoWare. All rights reserved.
+//
+
+"HueSaturationValueLabelText" = "HSV";
+"RedGreenBlueLabelText" = "RGB";
+"HexadecimalLabelText" = "Hex";
