@@ -12,15 +12,13 @@
 #import "DLog.h"
 #import <QuartzCore/QuartzCore.h>
 
-#import "ColorPickerController.h"
+//#import "ColorPickerController.h"
 
 
 #define	kImageURLDefaultHostKey		@"http://images.billsnook.info"		// Default scheme://host URL
 #define	kImageURLDefaultFileKey		@"TestImg.png"						// Default file name
 #define	kImageURLDefaultFileiPadKey	@"TestImg-iPad.png"					// Default file name on iPad
 // http://localhost:8080/~bill/MWA/images/TestImg.png
-
-
 
 
 @interface itMainVC ()
@@ -301,7 +299,7 @@
 	if ( nil == settingsMutableDict ) {
 		settingsMutableDict = [NSMutableDictionary dictionaryWithCapacity: 5];
 	}
-//	DLog( @"prepareForSegue siteSettings dictionary before: %@", [settingsMutableDict description]);
+//	DLog( @"siteSettings dictionary before: %@", [settingsMutableDict description]);
 	
 	[settingsMutableDict setObject: siteDomain.text forKey: @"siteDomain"];
 	[settingsMutableDict setObject: siteFile.text forKey: @"siteFile"];
@@ -315,7 +313,7 @@
 	
 	[settingsMutableDict setObject: hex forKey: @"showColor"];
 	
-//	DLog( @"prepareForSegue siteSettings dictionary after: %@", [settingsMutableDict description]);
+//	DLog( @"siteSettings dictionary after: %@", [settingsMutableDict description]);
 	[settings setObject: settingsMutableDict forKey: @"siteSettings"];
 	[settings synchronize];
 }
